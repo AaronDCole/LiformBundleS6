@@ -20,7 +20,7 @@
   "minimum-stability": "stable",
   "repositories": [
     {
-      "type": "git",
+      "type": "vcs",
       "url": "https://github.com/AaronDCole/LiformS6"
     }
   ]
