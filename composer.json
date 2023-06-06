@@ -15,7 +15,13 @@
     }
   },
   "require": {
-    "limenius/liform": "^0.18.0"
+    "limenius/liform": "dev-master"
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "stable",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/AaronDCole/LiformS6"
+    }
+  ]
 }
