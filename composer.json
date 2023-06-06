@@ -15,7 +15,7 @@
     }
   },
   "require": {
-    "limenius/liform": "^0.18"
+    "limenius/liform": "dev-master"
   },
   "minimum-stability": "stable",
   "repositories": [
